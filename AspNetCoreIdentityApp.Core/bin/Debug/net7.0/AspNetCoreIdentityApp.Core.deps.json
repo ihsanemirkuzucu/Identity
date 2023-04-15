@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "AspNetCoreIdentityApp.Core/1.0.0": {
+        "runtime": {
+          "AspNetCoreIdentityApp.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AspNetCoreIdentityApp.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
